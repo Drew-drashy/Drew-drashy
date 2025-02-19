@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Apache-spark.<br>And also on the back end of my web Application.<br>Student of IIIT-Delhi.<br>Always open to learn.<br>
+👋 I'm Drashy, a dedicated software developer and computer science student at Indraprastha Institute of Information Technology, Delhi. I specialize in crafting responsive frontends with React, TypeScript, and Tailwind, and I've developed robust admin panels and REST APIs during my internship at EL-FI HOMES. My technical expertise spans C++, Python, Java, JavaScript, and frameworks like NodeJS and ExpressJS. Through my projects, including a video-sharing platform and a warehouse management system, I've honed my skills in delivering user-centric solutions and streamlining data processes. I'm passionate about using technology to simplify complex challenges and actively seek opportunities in software development and data analysis.<br>
 
 
 ## 🌐 Socials:
